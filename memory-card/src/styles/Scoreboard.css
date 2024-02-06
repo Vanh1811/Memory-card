@@ -1,0 +1,39 @@
+.scoreboard {
+    border-radius: var(--common-bdr-radius);
+    padding: var(--common-padding);
+    text-align: center;
+    width: max-content;
+    margin: 0 auto;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: var(--bg-clr-sec);
+    margin-bottom: 20px;
+    background-image: url('/backgrounds/commonBG.webp');
+    background-size: cover;
+    color: white;
+  }
+
+  .scoreboard p {
+    font-weight: 500;
+    margin: 5px;
+  }
+
+  .scoreboard span {
+    font-weight: 700;
+  }
+
+  @media (max-width: 600px) {
+  }
+
+  @media (min-width: 601px) {
+    .scoreboard {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+    }
+  }
+
+  @media (min-width: 601px) and (max-width: 900px) {
+  }
+
+  @media (min-width: 901px) {
+  }

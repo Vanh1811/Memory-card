@@ -1,0 +1,34 @@
+[
+    { "id": 1, "url": "/characters/loki.webp", "title": "Loki" },
+    {
+      "id": 2,
+      "url": "/characters/hawkeye.webp",
+      "title": "Hawkeye"
+    },
+    { "id": 3, "url": "/characters/falcon.webp", "title": "Falcon" },
+    { "id": 4, "url": "/characters/thor.webp", "title": "Thor" },
+    {
+      "id": 5,
+      "url": "/characters/captainAmerica.webp",
+      "title": "Captain America"
+    },
+    { "id": 6, "url": "/characters/blackWidow.webp", "title": "Black Widow" },
+    { "id": 7, "url": "/characters/hulk.webp", "title": "Hulk" },
+    { "id": 8, "url": "/characters/ironMan.webp", "title": "Iron Man" },
+    { "id": 9, "url": "/characters/nickFury.webp", "title": "Nick Fury" },
+    { "id": 10, "url": "/characters/wong.webp", "title": "Wong" },
+    {
+      "id": 11,
+      "url": "/characters/blackPanther.webp",
+      "title": "Black Panther"
+    },
+    { "id": 12, "url": "/characters/spiderman.webp", "title": "Spiderman" },
+    {
+      "id": 13,
+      "url": "/characters/captainMarvel.webp",
+      "title": "Captain Marvel"
+    },
+    { "id": 14, "url": "/characters/starLord.webp", "title": "Star Lord" },
+    { "id": 15, "url": "/characters/nebula.webp", "title": "Nebula" },
+    { "id": 16, "url": "/characters/warMachine.webp", "title": "War Machine" }
+  ]

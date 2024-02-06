@@ -1,0 +1,20 @@
+#root {
+  max-width: 1800px;
+  padding: 1rem;
+  min-width: 100vw;
+}
+
+@media (max-width: 600px) {
+}
+
+@media (min-width: 601px) {
+  #root {
+    padding: 1rem;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 900px) {
+}
+
+@media (min-width: 901px) {
+}
